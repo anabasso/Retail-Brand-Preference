@@ -1,0 +1,5 @@
+Uma empresa tem um DB de produtos com as suas caracter´ísticas e quanto vendeu de cada um.
+Para poder escolher quais novos productos deve incorporar no seu cat´álogo, podemos estudar o desempenho de produtos similares e projetar um novo volume de vendas.
+Quando predecimos o volume de venda dos novos produtos, podemos ent~ão calcular, usando o seu preço e margem de lucro, qual a profitability do produto.
+
+Este DB n~ão ´é real e tem uma trampa colocada propositalmente para causar overfitting.
